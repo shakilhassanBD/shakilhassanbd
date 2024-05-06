@@ -7,7 +7,7 @@ Skills: HTML / CSS / Tailwind / JS / React JS / C / C++ / DSA
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning HTML, CSS, tailwind, JS, react js c, c++, DSA, and algorithm 
 - 👯 I’m looking to collaborate on YouTube 
-- 📫 How to reach me: https://t.me/shakilhassanbd 
+- 📫 How to reach me: https://t.me/shakilhassan2k3 
 - 😄 Pronouns: S H A K I L 
 - ⚡ Fun fact: I have dropped out from different online courses.
 

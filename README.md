@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Shakil Hassan
 ### I am a frontend web developer
-I made my project just for learning purposes
+I create my project just for learning purposes
 
 Skills: HTML / CSS / Tailwind / JS / React JS / C / C++ / DSA 
 
@@ -9,7 +9,7 @@ Skills: HTML / CSS / Tailwind / JS / React JS / C / C++ / DSA
 - 👯 I’m looking to collaborate on YouTube 
 - 📫 How to reach me: https://t.me/shakilhassan2k3 
 - 😄 Pronouns: S H A K I L 
-- ⚡ Fun fact: I have dropped out from different online courses.
+- ⚡ Fun fact: I have dropped out of different online courses.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shakilhassanBD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shakilhassan2k3/)  
